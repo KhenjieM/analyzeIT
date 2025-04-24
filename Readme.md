@@ -17,7 +17,7 @@ A Python script that discovers hidden website directories using brute-force tech
 ```bash
 # Clone repository
 git clone https://github.com/Havoc199x/analyzeIT.git
-cd hidden-folder-crawler
+cd analyzeIT
 
 # Verify Python version (requires 3.6+)
 python --version
