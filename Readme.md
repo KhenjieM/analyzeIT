@@ -16,8 +16,9 @@ A Python script that discovers hidden website directories using brute-force tech
 ## 🚀 Installation  
 ```bash
 # Clone repository
-git clone https://github.com/Havoc199x/analyzeIT.git
+git clone https://github.com/khenjiem/analyzeIT.git
 cd analyzeIT
 
 # Verify Python version (requires 3.6+)
 python --version
+
